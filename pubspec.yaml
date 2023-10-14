@@ -1,6 +1,6 @@
 name: device_calendar_resolved
 description: A cross platform plugin for modifying calendars on the user's device.
-version: 5.0.0
+version: 5.0.1
 homepage: https://github.com/GavrielRosendorn74/device_calendar/tree/release
 publish_to: 'none'
 
