@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:device_calendar/device_calendar.dart';
+import 'package:device_calendar_resolved/device_calendar.dart';
 
 class EventRemindersPage extends StatefulWidget {
   final List<Reminder> _reminders;

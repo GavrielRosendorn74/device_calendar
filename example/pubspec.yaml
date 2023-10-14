@@ -23,7 +23,7 @@ dev_dependencies:
     sdk: flutter
   test:
 
-  device_calendar:
+  device_calendar_resolved:
     path: ../
 
 # For information on the generic Dart part of this file, see the

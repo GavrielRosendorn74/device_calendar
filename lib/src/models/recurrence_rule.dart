@@ -1,4 +1,4 @@
-import 'package:device_calendar/src/common/calendar_enums.dart';
+import 'package:device_calendar_resolved/src/common/calendar_enums.dart';
 
 import '../common/error_messages.dart';
 import '../common/recurrence_frequency.dart';
